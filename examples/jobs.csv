@@ -1,0 +1,3 @@
+title,company,url,description,skills,location,source
+Analista de datos,Compañía Ficticia,https://example.org/jobs/analyst,"Buscamos experiencia con Python, SQL y Power BI para crear reportes de gestión.",Python; SQL; Power BI,Remoto,CSV demo
+Ingeniero de analítica,Empresa de Muestra,https://example.org/jobs/analytics,"Experiencia con Python, pandas, SQL y automatización de procesos.",Python; pandas; SQL,Santiago,CSV demo

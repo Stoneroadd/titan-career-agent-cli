@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.career-agent/
+career-data/
+output/
+.env
+*.log
+.pytest_cache/
